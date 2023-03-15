@@ -4,4 +4,5 @@ This is a README file containing an assesment answeres to [Laezonia-University](
 - We used TypeScript and JavaScript as part of our programing language
 - ReactJs is the Framework we used to Develop the Application
 - TailwindCss is Our Css Framework for styling 
+- FireBase as Our Backend as a Service
 ## Instalations
