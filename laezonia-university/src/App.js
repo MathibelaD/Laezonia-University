@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="bold text-red-400">
       Mokeoma mamnbmabbdbmabdsa
     </div>
   );
